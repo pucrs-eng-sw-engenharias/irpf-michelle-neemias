@@ -1,0 +1,26 @@
+# depslib dependency file v1.0
+1589858837 source:c:\users\neemi\idrpf\impostoderenda\main.cpp
+	<iostream>
+	"IRPF.h"
+
+1589146867 c:\users\neemi\idrpf\impostoderenda\src\irpf.cpp
+	"IRPF.h"
+
+1589858688 c:\users\neemi\idrpf\impostoderenda\include\irpf.h
+	<string>
+	<string.h>
+
+1589858777 source:c:\users\neemi\idrpf\impostoderenda\src\irpf.cpp
+	"IRPF.h"
+	<time.h>
+
+1589856546 source:c:\users\neemi\idrpf\impostoderenda\src\imposto.cpp
+	"Imposto.h"
+
+1589856546 c:\users\neemi\idrpf\impostoderenda\include\imposto.h
+
+1589857762 source:c:\users\neemi\idrpf\impostoderenda\src\teste.cpp
+	"Teste.h"
+
+1589857762 c:\users\neemi\idrpf\impostoderenda\include\teste.h
+

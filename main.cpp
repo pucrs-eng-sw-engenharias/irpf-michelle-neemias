@@ -1,8 +1,9 @@
 #include<iostream>
 
-using namespace std;
+#include"IRPF.h"
+
+
 int main(){
 
-    cout << "IMPOSTO DE RENDA!";
 
 }
