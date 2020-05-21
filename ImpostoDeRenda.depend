@@ -24,3 +24,24 @@
 
 1589857762 c:\users\neemi\idrpf\impostoderenda\include\teste.h
 
+1590088546 source:c:\users\neemi\idrpf\irpf-michelle-neemias\src\irpf.cpp
+	"IRPF.h"
+	<time.h>
+
+1590088531 c:\users\neemi\idrpf\irpf-michelle-neemias\include\irpf.h
+	<string>
+	<string.h>
+
+1590087859 source:c:\users\neemi\idrpf\irpf-michelle-neemias\src\teste.cpp
+	"Teste.h"
+
+1590087859 c:\users\neemi\idrpf\irpf-michelle-neemias\include\teste.h
+
+1590088580 source:c:\users\neemi\idrpf\irpf-michelle-neemias\src\dados.cpp
+	"Dados.h"
+
+1590088570 c:\users\neemi\idrpf\irpf-michelle-neemias\include\dados.h
+	"IRPF.h"
+	<vector>
+	<iostream>
+

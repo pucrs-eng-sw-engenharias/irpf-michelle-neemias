@@ -13,6 +13,7 @@ class IRPF
         IRPF(string enome, string ecpf, double econtribuicao, double erendimentos);
         IRPF(string enome, string ecpf, double econtribuicao, double erendimentos, int enascimento, int edependentes);
         string Getcpf() { return cpf; }
+        string Getnome() {return nome;}
         int idade();
 
 

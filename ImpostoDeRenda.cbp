@@ -33,9 +33,11 @@
 		<Compiler>
 			<Add option="-Wall" />
 		</Compiler>
+		<Unit filename="include/Dados.h" />
 		<Unit filename="include/IRPF.h" />
 		<Unit filename="include/Teste.h" />
 		<Unit filename="main.cpp" />
+		<Unit filename="src/Dados.cpp" />
 		<Unit filename="src/IRPF.cpp" />
 		<Unit filename="src/Teste.cpp" />
 		<Extensions>
