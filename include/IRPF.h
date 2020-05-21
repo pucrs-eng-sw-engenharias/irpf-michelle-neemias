@@ -15,7 +15,8 @@ class IRPF
         string Getcpf() { return cpf; }
         string Getnome() {return nome;}
         int idade();
-
+        double imposto_simples();
+        double imposto_completo();
 
     private:
         string nome;
