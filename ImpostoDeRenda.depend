@@ -50,3 +50,29 @@
 	"IRPF.h"
 	"Dados.h"
 
+1590689559 source:c:\users\crazy\desktop\engsoft\irpf-michelle-neemias\main.cpp
+	<iostream>
+	"IRPF.h"
+	"Dados.h"
+
+1590689559 c:\users\crazy\desktop\engsoft\irpf-michelle-neemias\include\irpf.h
+	<string>
+	<string.h>
+
+1590689559 c:\users\crazy\desktop\engsoft\irpf-michelle-neemias\include\dados.h
+	"IRPF.h"
+	<vector>
+	<iostream>
+
+1590689559 source:c:\users\crazy\desktop\engsoft\irpf-michelle-neemias\src\dados.cpp
+	"Dados.h"
+
+1590689559 source:c:\users\crazy\desktop\engsoft\irpf-michelle-neemias\src\irpf.cpp
+	"IRPF.h"
+	<time.h>
+
+1590688707 source:c:\users\crazy\desktop\engsoft\irpf-michelle-neemias\src\teste.cpp
+	"Teste.h"
+
+1590688707 c:\users\crazy\desktop\engsoft\irpf-michelle-neemias\include\teste.h
+
