@@ -35,6 +35,7 @@
 		</Compiler>
 		<Unit filename="include/Dados.h" />
 		<Unit filename="include/IRPF.h" />
+		<Unit filename="include/Interface.h" />
 		<Unit filename="include/Teste.h" />
 		<Unit filename="main.cpp" />
 		<Unit filename="src/Dados.cpp" />

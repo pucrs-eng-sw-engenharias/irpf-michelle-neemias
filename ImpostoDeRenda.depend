@@ -76,3 +76,36 @@
 
 1590688707 c:\users\crazy\desktop\engsoft\irpf-michelle-neemias\include\teste.h
 
+1590693275 source:c:\users\crazy\desktop\engsoft\funfanco\main.cpp
+	<iostream>
+	"IRPF.h"
+	"Dados.h"
+	"Interface.h"
+
+1590689559 c:\users\crazy\desktop\engsoft\funfanco\include\irpf.h
+	<string>
+	<string.h>
+
+1590689559 c:\users\crazy\desktop\engsoft\funfanco\include\dados.h
+	"IRPF.h"
+	<vector>
+	<iostream>
+
+1590691169 source:c:\users\crazy\desktop\engsoft\funfanco\src\dados.cpp
+	"Dados.h"
+
+1590689559 source:c:\users\crazy\desktop\engsoft\funfanco\src\irpf.cpp
+	"IRPF.h"
+	<time.h>
+
+1590688707 source:c:\users\crazy\desktop\engsoft\funfanco\src\teste.cpp
+	"Teste.h"
+
+1590688707 c:\users\crazy\desktop\engsoft\funfanco\include\teste.h
+
+1590690224 source:c:\users\crazy\desktop\engsoft\funfanco\interface.cpp
+
+1590690224 c:\users\crazy\desktop\engsoft\funfanco\interface.cpp
+
+1590695155 c:\users\crazy\desktop\engsoft\funfanco\include\interface.h
+
