@@ -25,5 +25,5 @@ IRPF Dados::ler(string ecpf){
                 return todos.at(i);
         }
 
-    return IRPF("Nao encontrado", "0000000000",0,0);
+    return IRPF("Nao encontrado", "0000",0,0);
 }

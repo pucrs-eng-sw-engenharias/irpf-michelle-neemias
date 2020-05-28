@@ -1,17 +1,16 @@
 # depslib dependency file v1.0
-1590084993 source:c:\users\neemi\idrpf\impostoderenda\main.cpp
+1589858837 source:c:\users\neemi\idrpf\impostoderenda\main.cpp
 	<iostream>
 	"IRPF.h"
-	"Dados.h"
 
 1589146867 c:\users\neemi\idrpf\impostoderenda\src\irpf.cpp
 	"IRPF.h"
 
-1590085279 c:\users\neemi\idrpf\impostoderenda\include\irpf.h
+1589858688 c:\users\neemi\idrpf\impostoderenda\include\irpf.h
 	<string>
 	<string.h>
 
-1589859542 source:c:\users\neemi\idrpf\impostoderenda\src\irpf.cpp
+1589858777 source:c:\users\neemi\idrpf\impostoderenda\src\irpf.cpp
 	"IRPF.h"
 	<time.h>
 
@@ -20,18 +19,10 @@
 
 1589856546 c:\users\neemi\idrpf\impostoderenda\include\imposto.h
 
-1589859542 source:c:\users\neemi\idrpf\impostoderenda\src\teste.cpp
+1589857762 source:c:\users\neemi\idrpf\impostoderenda\src\teste.cpp
 	"Teste.h"
 
-1589859542 c:\users\neemi\idrpf\impostoderenda\include\teste.h
-
-1590084743 c:\users\neemi\idrpf\impostoderenda\include\dados.h
-	"IRPF.h"
-	<vector>
-	<iostream>
-
-1590085181 source:c:\users\neemi\idrpf\impostoderenda\src\dados.cpp
-	"Dados.h"
+1589857762 c:\users\neemi\idrpf\impostoderenda\include\teste.h
 
 1590090579 source:c:\users\neemi\idrpf\irpf-michelle-neemias\src\irpf.cpp
 	"IRPF.h"
@@ -58,4 +49,63 @@
 	<iostream>
 	"IRPF.h"
 	"Dados.h"
+
+1590689559 source:c:\users\crazy\desktop\engsoft\irpf-michelle-neemias\main.cpp
+	<iostream>
+	"IRPF.h"
+	"Dados.h"
+
+1590689559 c:\users\crazy\desktop\engsoft\irpf-michelle-neemias\include\irpf.h
+	<string>
+	<string.h>
+
+1590689559 c:\users\crazy\desktop\engsoft\irpf-michelle-neemias\include\dados.h
+	"IRPF.h"
+	<vector>
+	<iostream>
+
+1590689559 source:c:\users\crazy\desktop\engsoft\irpf-michelle-neemias\src\dados.cpp
+	"Dados.h"
+
+1590689559 source:c:\users\crazy\desktop\engsoft\irpf-michelle-neemias\src\irpf.cpp
+	"IRPF.h"
+	<time.h>
+
+1590688707 source:c:\users\crazy\desktop\engsoft\irpf-michelle-neemias\src\teste.cpp
+	"Teste.h"
+
+1590688707 c:\users\crazy\desktop\engsoft\irpf-michelle-neemias\include\teste.h
+
+1590693275 source:c:\users\crazy\desktop\engsoft\funfanco\main.cpp
+	<iostream>
+	"IRPF.h"
+	"Dados.h"
+	"Interface.h"
+
+1590689559 c:\users\crazy\desktop\engsoft\funfanco\include\irpf.h
+	<string>
+	<string.h>
+
+1590689559 c:\users\crazy\desktop\engsoft\funfanco\include\dados.h
+	"IRPF.h"
+	<vector>
+	<iostream>
+
+1590691169 source:c:\users\crazy\desktop\engsoft\funfanco\src\dados.cpp
+	"Dados.h"
+
+1590689559 source:c:\users\crazy\desktop\engsoft\funfanco\src\irpf.cpp
+	"IRPF.h"
+	<time.h>
+
+1590688707 source:c:\users\crazy\desktop\engsoft\funfanco\src\teste.cpp
+	"Teste.h"
+
+1590688707 c:\users\crazy\desktop\engsoft\funfanco\include\teste.h
+
+1590690224 source:c:\users\crazy\desktop\engsoft\funfanco\interface.cpp
+
+1590690224 c:\users\crazy\desktop\engsoft\funfanco\interface.cpp
+
+1590695155 c:\users\crazy\desktop\engsoft\funfanco\include\interface.h
 
