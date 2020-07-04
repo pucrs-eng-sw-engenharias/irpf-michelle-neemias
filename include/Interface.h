@@ -4,7 +4,7 @@ string primeiromenu(){
     std::string cpfdigitado;
     do{
     cin >> cpfdigitado;
-    }while(cpfdigitado.length()!=4);
+    }while(cpfdigitado.length()!=11);
     return cpfdigitado;
 }
 
